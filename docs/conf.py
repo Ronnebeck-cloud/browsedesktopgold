@@ -4,7 +4,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project info
-project = 'Browse Desktop Gold'
+project = 'Web Design Development'
 author = 'Heide Fasnacht'
 release = '1.0'
 
