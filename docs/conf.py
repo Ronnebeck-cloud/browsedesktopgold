@@ -4,8 +4,8 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project info
-project = 'Web Browser'
-author = 'Heide Fasnacht'
+project = 'New Design Project'
+author = 'Olabisi'
 release = '1.0'
 
 # General config
